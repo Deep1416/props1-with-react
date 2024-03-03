@@ -56,35 +56,35 @@ export const ColorsData = [
     name: "BROWN",
   },
   {
-    color: "#0000ff",
+    color: "#0000FF",
     name: "BLUE",
   },
   {
-    color: "#8a2be2",
+    color: "#8A2BE2",
     name: "BLUEVIOLET",
   },
   {
-    color: "#deb887",
+    color: "#DEB887",
     name: "BURLYWOOD",
   },
   {
-    color: "#ff7f50",
+    color: "#FF7F50",
     name: "CORAL",
   },
   {
-    color: "#dc143c",
+    color: "#DC143C",
     name: "CRIMSON",
   },
   {
-    color: "#00ffff",
+    color: "#00FFFF",
     name: "CYAN",
   },
   {
-    color: "#008b8b",
+    color: "#008B8B",
     name: "DARKCYAN",
   },
   {
-    color: "#a9a9a9",
+    color: "#A9A9A9",
     name: "DARKGRAY",
   },
   {
@@ -92,47 +92,47 @@ export const ColorsData = [
     name: "DARKGREEN",
   },
   {
-    color: "#8b008b",
+    color: "#8B008B",
     name: "DARKMAGENTA",
   },
   {
-    color: "#ff8c00",
+    color: "#FF8C00",
     name: "DARKORANGE",
   },
   {
-    color: "#1e90ff",
+    color: "#1E90FF",
     name: "DODGERBLUE",
   },
   {
-    color: "#ff00ff",
+    color: "#FF00FF",
     name: "FUCHSIA",
   },
   {
-    color: "#ffd700",
+    color: "#FFD700",
     name: "GOLD",
   },
   {
-    color: "#ff69b4",
+    color: "#FF69B4",
     name: "HOTPINK",
   },
   {
-    color: "#90ee90",
+    color: "#90EE90",
     name: "LIGHTGREEN",
   },
   {
-    color: "#20b2aa",
+    color: "#20B2AA",
     name: "LIGHTSEAGREEN",
   },
   {
-    color: "#4169e1",
+    color: "#4169E1",
     name: "ROYALBLUE",
   },
   {
-    color: "#2e8b57",
+    color: "#2E8B57",
     name: "SEAGREEN",
   },
   {
-    color: "#d6a184",
+    color: "#D6A184",
     name: "BUFF",
   },
   {

@@ -1,7 +1,7 @@
 import React from "react";
 
 function ColorCard({bg , name}) {
-  console.log(name);
+
   return (
     <div className="w-40 h-40  shadow-xl">
       <div className="h-28 w-full "  style={{ backgroundColor: `${bg}` }}></div>
